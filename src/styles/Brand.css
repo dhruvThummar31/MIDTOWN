@@ -1,0 +1,16 @@
+@media screen  and (max-width: 640px){
+    .brand-title{
+        margin-top: -25rem;
+        margin-left: -1rem !important;
+        font-size: 30px !important;
+    }
+
+    .brand-subtitle{
+        font-size: 22px !important;
+        margin-left: 1.5rem !important;
+    }
+    .brnd-main{
+        display: none !important;
+    }
+}
+

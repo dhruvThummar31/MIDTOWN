@@ -1,0 +1,37 @@
+.caro{
+    height: 370px !important;
+
+}
+
+@media screen  and (min-width: 640px){
+    .pro-mobile{
+        display: none !important;
+    }
+}
+
+@media screen  and (max-width: 640px){
+    .pro-name{
+        margin-left: -7vw !important;
+    }
+    .pro-btn-sec{
+        display: none;
+    }
+    .pro-btn-cat{
+        display: none;
+    }
+    .caro{
+        height: 230px !important;
+        margin-bottom: -5vw !important;
+    }
+    .pro-det{
+        margin: 20px 10px;
+    }
+    .pro-large{
+        display: none;
+    }
+    .pro-de-grid{
+        margin-top: 10px !important;
+    }
+    
+   
+}

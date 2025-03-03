@@ -1,0 +1,17 @@
+@media screen  and (max-width: 640px){
+    .ftitle{
+        font-size:34px !important;
+        margin-top: 6vw;
+        margin-left: -5vw;
+    }
+
+    .cardsec{
+        margin: 0px !important;
+        padding: 1vw 5vw !important;
+    }
+    .card{
+        margin-top: 20px;
+        display: flex !important;
+        flex-direction: column !important;
+    }
+}

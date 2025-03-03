@@ -1,0 +1,12 @@
+ /* Media query for mobile screens */
+  @media screen and (max-width: 640px) {
+    .cardtitle{
+        font-size: 17px !important;
+    }
+    .cardmain{
+        margin-bottom: -5vw;
+    }
+    .imgage {
+      height: 300px !important;
+    }
+  }

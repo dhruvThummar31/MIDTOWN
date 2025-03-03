@@ -1,0 +1,86 @@
+@media screen  and (max-width: 640px){
+    .amain{
+        padding:0vw 4vw  !important ;
+    }
+    .about-title{
+       opacity: 0.15;
+       font-size: 44px;
+    }
+    .about-video{
+        padding: 3vw;
+    }
+    .about-overview-main{
+        padding:0vw 4vw  !important ;
+        margin-top: 5vw;
+    }
+    .about-overview{
+        font-size: 22px;
+        margin-bottom: 5vw;
+    }
+    .about-overview-two {
+        padding-bottom: 4vw;
+    }
+    .director-main{
+        padding-top: 0vw !important;
+        
+    }
+    .director-title{
+        margin-top: 4vw;
+        font-size:30px;
+    }
+    .dir-sub{
+      margin-top: -1rem;
+      padding-left: 0.5rem;
+    }
+    .director-para{
+        font-size: 20px;
+    }
+    .content-main{
+        padding-left: 3vw;
+        padding-right: 3vw;
+    }
+    .Affilation-overview{
+        font-size: 20px;
+    }
+    .Affilation-conn {
+        margin-top: -0vw;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); 
+        gap: 15px; 
+      }    
+      .pbn{   
+        margin-top: -5vw !important;
+      }      
+      .Ars{
+        padding-top: 1.5vw;
+      }
+      .Divider {
+        display: none; /* Hides divider for small screens */
+      }
+
+
+      .mvc-main{
+        margin: 0;
+      }
+      .mvc-title{
+        text-align: left;
+      }
+      .mvc-sub{
+        font-size: 22px;
+      }
+      .mvc-para{
+        font-size: 19px;
+        margin-bottom: -5vw;
+      }
+      .mini{
+        font-size: 22px;
+        margin-top: -3vw;
+      }
+
+}
+
+@media screen and (min-width : 641px) {
+    .brd-mobile{
+      display: none !important;
+    }
+}

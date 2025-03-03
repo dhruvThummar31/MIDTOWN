@@ -1,0 +1,31 @@
+
+@media screen  and (max-width: 640px){
+    .rcpi-main{
+        padding: 20vh 0vh 0vh!important;
+        
+    }
+    .rcpi-para{
+        font-size: 7vw;
+    }
+    .rcpi-mini-para{
+        font-size: 6.5vw;
+    }
+    .rcpi-pro-main{
+        padding-top: 0px !important;
+    }
+    .rcpi-pro-sub{
+        padding: 0vw 5vw;  
+    }
+    .rcpi-h1{
+        font-size: 40px;            
+    }
+    .rcpi-cardsec{
+        margin: 0px !important;
+        padding: 1vw 5vw !important;
+    }
+    .rcpi-card{
+        margin-top: 20px;
+        display: flex !important;
+        flex-direction: column !important;
+    }
+}

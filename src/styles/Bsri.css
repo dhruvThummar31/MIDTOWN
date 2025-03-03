@@ -1,0 +1,32 @@
+@media screen and (max-width:648px) {
+    .bsri-title{
+        font-size: 45px !important;
+    }
+    .bsri-border{
+        margin-top: 0px;
+    }
+    .bsri-img-div{
+        margin-bottom: 0vh;
+    }
+    .bsri-img{
+        padding: 0px 15px;
+    }
+    .bsri-form-img{
+        margin-bottom: -5vw;
+    }
+    .bsri-con{
+        margin-top: -10vw;
+    }
+
+
+}
+
+@media screen and (min-width:1300px) {
+    .bsri-form-img{
+        margin-right: -2vw;
+        height: 80vh !important;
+    }
+    .bsri-right{
+        margin-left: -2vw;
+    }
+}

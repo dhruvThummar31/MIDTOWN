@@ -1,0 +1,22 @@
+@media screen  and (max-width: 640px){
+    .load-main{
+        padding: 10px !important;
+
+    }
+    .load-logo{
+        height: 45px;
+        margin-bottom: 40px;
+    }
+   .load-text{
+     font-size: 32px;
+   }
+
+   .load-progress{
+    padding-top: 50vh;
+   }
+
+   .load-ptext{
+    font-size: 40px;
+   }
+
+}

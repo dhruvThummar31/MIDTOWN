@@ -1,0 +1,32 @@
+@media screen and (max-width:646px) {
+   
+    .pro-main{
+        padding: 30vh 3vh;
+       
+    }
+    .pro-title{
+        font-size: 10vw;
+    }
+    .pro-in{
+        padding: 20px 20px;
+    }
+    .pro-para-top{
+        font-size: 17px;
+        text-align: left;
+    }
+    .pro-img-title{
+        padding-top: 10px;
+    }
+    .pro-img-subtitle{
+        font-size: 19px !important;
+    }
+    .pro-img-index{
+        display: none;
+    }
+    .pro-img{
+        margin-top: 20px;
+    }
+    .pro-con{
+        margin-top: -23vh;
+    }
+}
