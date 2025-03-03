@@ -73,7 +73,7 @@ import Invest from './components/Invest'
 import Residential from './components/Residential';
 import Commercial from './components/Commercial';
 import Plot from './components/Plot';
-import Industrial from './components/industrial';
+import Industrial from './components/Industrial';
 import PropertyP from './pages/PropertyP';
 import TestimonialP from './pages/TestimonialP';
 import LoadingScreen from './components/LoadingScreen';
