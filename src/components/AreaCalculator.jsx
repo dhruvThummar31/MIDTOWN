@@ -35,7 +35,7 @@ export const AreaCalculator = () => {
 
   return (
     <div className="calculator-container">
-      <div className="calculator-card bg-white p-6 rounded-xl shadow-lg border border-gray-200">
+      <div className="calculator-card bg-white p-6  rounded-xl shadow-lg border border-gray-200">
         <div className="flex items-center gap-3 mb-6">
           <FaCalculator className="w-6 h-6 text-green-700" />
           <h2 className="text-xl font-bold text-gray-900 pt-2">Area Conversion</h2>

@@ -66,17 +66,22 @@
         margin-top: 40vw;
     }
     .three p { 
-        font-size: 1.5rem; /* Increased font size */ 
+        font-size: 20px; /* Increased font size */ 
         margin-top: 20px; 
-        margin-bottom: 20px; 
+        margin-bottom: 20px;
+       
     } 
     .btn{
         margin-top: 10px;
         font-size: 1.2rem;
+        padding-left: 2vw;
     }
     .btnIn{
         padding-left: 14px;
         padding-right: 14px;
+    }
+    .h1-three{
+        font-size: 35px !important;
     }
 }
 

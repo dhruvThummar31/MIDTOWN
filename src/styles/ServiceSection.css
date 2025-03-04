@@ -50,11 +50,11 @@
   @media screen  and (max-width: 640px){
     .stitle{
         font-size:34px !important;
-        margin-left: -5vw;
+        margin-left: -7vw;
         margin-top: -5vw;
     }
     .subpart{
-      margin-left: -5vw;
+      margin-left: -7vw;
     }
     .para{
       font-size:18px ;

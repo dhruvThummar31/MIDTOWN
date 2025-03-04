@@ -1,11 +1,11 @@
 @media screen  and (max-width: 640px){
     .ttitle{
         font-size:34px !important;
-        margin-left: -5vw;
+        margin-left: -7vw !important; 
         margin-top: -5vw;
     }
     .subtitle{
-        margin-left: -4vw !important;
+        margin-left: -6vw !important;
         font-size: 24px;
         margin-top: -10px;
     }

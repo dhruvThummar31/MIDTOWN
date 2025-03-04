@@ -5,6 +5,10 @@
         margin-left: -5vw;
         margin-bottom: 0vw;
     }
+    .subbtitle{
+        margin-left: -4vw;
+    }
+   
     .conimg{
         display: none;
     }
@@ -14,7 +18,7 @@
         padding: 0vw 5vw;
     }
     form input{
-        font-size: 20px;
+        font-size: 18px !important;
     }
     
 }

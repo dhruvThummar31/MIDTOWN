@@ -50,7 +50,7 @@ function AboutusP() {
 
     {/* Director */}
     <div className="min-h-screen ">
-      <div className="director-main max-w-7xl mx-auto px-4 py-16 sm:px-6 lg:px-1 ">
+      <div className="director-main max-w-7xl mx-auto px-0 py-16 sm:px-6 lg:px-1 ">
         <div className="bg-white rounded-lg shadow-xl overflow-hidden lg:py-4">
         <         h1 className="director-title text-[3vw] font-bold text-gray-800 text-center mt-3">
                     OUR <span className="text-[#004D43]">MANAGMENT</span>
@@ -248,7 +248,7 @@ function AboutusP() {
         </div>
       
       {/* Contact */}
-      <div className='-mt-[11vh] lg:-mt-[18vh]'>
+      <div className='-mt-[8vh] lg:-mt-[18vh]'>
         <Contact/>
       </div>
     </div>

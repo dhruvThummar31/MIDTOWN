@@ -5,6 +5,8 @@ import contactLogo from "../assets/illustrator.png";
 import styled from 'styled-components';
 
 import '../styles/Contact.css';
+
+
 const Contact = () => {
   const [formData, setFormData] = useState({
     firstName: "",
@@ -101,7 +103,7 @@ const Contact = () => {
         </h1>
       </div>
       <div className="service-section px-9 lg:px-12 py-5">
-        <h2 className="subtitle text-2xl md:text-3xl lg:text-4xl font-light mb-4">
+        <h2 className="subbtitle text-2xl md:text-3xl lg:text-4xl font-light mb-4">
           Our team is ready to assist you
         </h2>
       </div>

@@ -115,7 +115,7 @@ const ProjectsP = () => {
                     <span className="absolute left-0 bottom-[-1px] w-0 h-[2px] bg-black transition-all duration-500 group-hover:w-full"></span>
                   </h3>
                   {/* Arrow */}
-                  <span className="text-yellow-700 text-2xl ml-4 transition-transform duration-500 group-hover:translate-x-2">
+                  <span className="arro text-yellow-700 text-2xl ml-4 transition-transform duration-500 group-hover:translate-x-2">
                     →
                   </span>
                 </div>

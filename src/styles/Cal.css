@@ -77,12 +77,13 @@ input[type="number"] {
           font-size: 45px;
         }
         .cal-con{
-          padding: 0px  20px !important;
+          padding: 0px  10px !important;
         }
         .cal-heading{
           font-size: 25px;
         }
         .cal-three{
           margin-bottom: 1rem;
+         
         }
   }

@@ -16,6 +16,7 @@ function Footer() {
           <h1 className="titlef two text-[6vw] font-semibold uppercase  tracking-tight  leading-tight opacity-75">
             OPENING
           </h1>
+
         </div>
 
         <img className="footer-img w-28 h-12 lg:h-14 -mb-[2vw]" src={Logo} alt="" />

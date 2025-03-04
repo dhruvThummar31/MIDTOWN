@@ -4,6 +4,7 @@
 
 body{
   background-color: #f1f1f1 !important;
+  font-family: 'founder-grotesk', sans-serif;
 }
 
 @keyframes wave {

@@ -127,7 +127,7 @@ function LandingPage() {
                   }}
                 ></motion.div>
               )}
-              <h1 className="uppercase text-[8vw] md:text-[6vw] leading-[6vw] md:leading-[5.3vw] tracking-tight font-bold">
+              <h1 className="h1-three uppercase text-[8vw] md:text-[6vw] leading-[6vw] md:leading-[5.3vw] tracking-tight font-bold">
                 {text}
               </h1>
             </div>
@@ -136,7 +136,7 @@ function LandingPage() {
       </div>
 
       {/* Info Section */}
-      <div className="three border-t-[1px] border-zinc-400 mt-24 flex flex-col md:flex-row justify-between items-start md:items-center py-5 px-6 md:px-10">
+      <div className="three border-t-[1px] border-zinc-400 mt-24 flex flex-col md:flex-row justify-between items-start md:items-center py-5 px-3 lg:px-6 md:px-10">
         {["For public and private companies", "From the first pitch to IPO"].map((item, index) => (
           <p key={index} className="text-md tracking-tight leading-none lg:text-lg">
             {item}

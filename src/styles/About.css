@@ -6,11 +6,13 @@
         line-height: 1.7rem !important;
         padding-left: 0px !important;
         margin-top: -6vw;
-        margin-left:-5vw;
+        margin-left:-6vw;
+       margin-bottom: 15vw;
     }
 
     .expect{
-        margin-left: -1vw;
+        margin-left: -3vw;
+        font-size: 24px;
     }
     .container{
         display: flex !important;
@@ -20,7 +22,7 @@
     }
     
     .p{
-        margin-left:3vw;
+        margin-left:1vw;
         margin-top: 7vw;
         font-size: 18px;
         line-height: 1.3rem;
@@ -34,20 +36,23 @@
         margin-top: -10vw;
         font-size: 18px;
         align-items: start !important;
+        margin-left:1vw;
     }
 
     .approch{
         font-size: 34px !important;
         margin-top: -5vw;
-        margin-left:-1vw;
+        margin-left:-3vw;
     } 
     .btn{
-        margin-left:-1vw;
+        margin-left:-3vw;
     }
 
     .img{
         
-        margin-right: 0px !important;
+        margin-right: 40px !important;
+        margin-left: 15px;
+        padding-bottom: 20px;
     }
 
 }
