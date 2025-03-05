@@ -54,5 +54,8 @@
         margin-left: 15px;
         padding-bottom: 20px;
     }
+    .view-btn{
+        padding: 0px 10px;
+    }
 
 }

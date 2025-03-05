@@ -45,7 +45,7 @@
 @media screen and (max-width : 1007px){
     .textstructure h1 {
         font-size: 7vw; /* Increase text size for smaller screens */
-        line-height: 7vw; /* Adjust line height */
+        line-height: 8vw; /* Adjust line height */
         
     }
 

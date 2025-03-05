@@ -86,7 +86,7 @@ function About() {
               onMouseEnter={() => setIsHovered(true)}
               onMouseLeave={() => setIsHovered(false)}
             >
-              <Link to='/about-us' className="pr-3">VIEW MORE</Link>
+              <Link to='/about-us' className="pr-3 view-btn">VIEW MORE</Link>
               <div className="relative flex items-center justify-center w-6 h-6">
                 {/* Dot */}
                 <div
