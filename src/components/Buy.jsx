@@ -97,7 +97,7 @@ function Buy() {
       </div>
 
       {/* Contact Section */}
-      <div className="flex flex-col lg:flex-row items-center justify-center py-16 px-6 lg:px-16 bg-gray-100">
+      <div className="flex flex-col lg:flex-row items-center justify-center py-16 px-4 md:px-6  lg:px-16 bg-gray-100">
         {/* Left Section: Image */}
         <div className="w-full lg:w-1/2 mb-8 lg:mb-0 flex justify-center">
           <img
