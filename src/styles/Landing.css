@@ -85,3 +85,12 @@
     }
 }
 
+@media (min-width:1008px) and (max-width:1326px) {
+    .textstructure{
+        margin-bottom: 25vh !important;
+        margin-top: 8rem !important;
+    }
+    .box{
+        width: 10vw !important;
+    }
+}

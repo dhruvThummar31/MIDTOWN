@@ -20,3 +20,13 @@
    }
 
 }
+
+@media (min-width: 1008px) and (max-width: 1326px){
+    .load-main{
+        margin-bottom: 30px !important;
+    }
+    .load-progress{
+        padding-top: 65px !important;
+       }
+
+}
