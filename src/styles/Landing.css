@@ -88,9 +88,11 @@
 @media (min-width:1008px) and (max-width:1400px) {
     .textstructure{
         margin-bottom: 25vh !important;
-        margin-top: 8rem !important;
+        
     }
     .box{
-        width: 10vw !important;
+        width: 9vw !important;
+        margin-right: 0.3vw !important;
     }
+    
 }

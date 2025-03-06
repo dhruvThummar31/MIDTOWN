@@ -19,7 +19,7 @@ function Footer() {
 
         </div>
 
-        <img className="footer-img w-28 h-12 lg:h-14 -mb-[2vw]" src={Logo} alt="" />
+        <img className="footer-img w-28 h-12 lg:h-14 -mb-[2.3vw]" src={Logo} alt="" />
       </div>
 
       {/* Right Section */}
