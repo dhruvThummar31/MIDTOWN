@@ -95,7 +95,7 @@ const Contact = () => {
       );
   };
   return (
-    <div  className="w-full py-10 font-['Founders_Grotesk']">
+    <div  className="w-full py-10 pt-2 font-['Founders_Grotesk']">
       {/* Background Text */}
       <div className="px-9 border-b-[1px] border-gray-500 border-opacity-50">
         <h1 className="ctitle text-[10vw] lg:text-[9vw] font-extrabold opacity-10 pointer-events-none -mb-10 ">

@@ -247,6 +247,7 @@
 import { useState } from 'react';
 import '../styles/TestimonialP.css'
 import { Swiper, SwiperSlide } from 'swiper/react';
+import Contact from '../components/Contact'
 
 // Import Swiper styles
 import 'swiper/css';
@@ -542,6 +543,10 @@ function TestimonialP() {
           <img src="https://swiperjs.com/demos/images/nature-9.jpg" />
         </SwiperSlide>
       </Swiper>
+
+      <div className='test-contat -mb-12'>
+        <Contact/>
+      </div>
     </section>
   );
 }

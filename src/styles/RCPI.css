@@ -32,7 +32,7 @@
 
 
 @media (min-width: 1008px) and (max-width: 1400px){
-    .rcpi-main{
-        padding-top: 29vh !important;
+    .rcpi-cardsec{
+        margin-top: 25px !important;
     }
 }
