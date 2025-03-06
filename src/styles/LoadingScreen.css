@@ -28,5 +28,7 @@
     .load-progress{
         padding-top: 60px !important;
        }
-
+       .load-sub-main {
+        width: 75vw !important;
+       }
 }

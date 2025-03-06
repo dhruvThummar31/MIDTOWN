@@ -133,7 +133,7 @@ function Navbar() {
         }`}
       >
         {/* Logo */}
-        <div className="logo">
+        <div>
           <Link to="/">
             <img className="w-auto h-10 lg:h-14" src={Logo} alt="Midtown" />
           </Link>

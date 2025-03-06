@@ -33,7 +33,7 @@ const LoadingScreen = ({ onLoadingComplete }) => {
   return (
     <div className="load-main fixed inset-0 bg-[#1a1a1a] flex items-center justify-center p-4 font-['Founders_Grotesk']">
       <div
-        className={` relative w-[80vw] bg-[#f1f1f1] rounded-2xl overflow-hidden shadow-2xl transform 
+        className={`load-sub-main relative w-[80vw] bg-[#f1f1f1] rounded-2xl overflow-hidden shadow-2xl transform 
           ${isVisible ? 'translate-y-0 opacity-100 transition-all duration-1000' : 'translate-y-full opacity-0'}
           ${isExiting ? 'scale-400 blur-sm opacity-0 transition-all duration-1000' : ''}`}
         style={{
