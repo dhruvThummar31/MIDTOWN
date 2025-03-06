@@ -150,7 +150,7 @@ function Residential() {
         </motion.p>
       </motion.div>
 
-      <div>
+      <div className="resbr-marquee -mb-[3rem]">
         <ResBrand/>
       </div>
 

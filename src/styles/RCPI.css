@@ -32,7 +32,8 @@
 
 
 @media (min-width: 1008px) and (max-width: 1400px){
-    .rcpi-cardsec{
-        margin-top: 25px !important;
-    }
+  
+   .resbr-marquee{
+    margin-top: -1.5rem !important;
+   }
 }
