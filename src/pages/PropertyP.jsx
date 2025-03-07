@@ -435,7 +435,7 @@ function PropertyP ()  {
               <img
                 src={image}
                 alt={`Property ${index + 1}`}
-                className="w-full h-full object-cover"
+                className="w-full h-full object-fit"
                 onError={(e) =>
                   (e.target.src =
                     "https://via.placeholder.com/800x600?text=Image+Unavailable")
@@ -513,7 +513,7 @@ function PropertyP ()  {
 
           {/* Price */}
           <div className="mb-5">
-            <h2 className="text-3xl font-bold"><span className='text-[#004D43]'>{project.price}</span></h2>
+            <h2 className="text-3xl font-bold"><span className='text-[#004D43]'>Price on Request</span></h2>
           </div>
 
           {/* Footer Information */}
@@ -521,7 +521,7 @@ function PropertyP ()  {
             <div className="flex items-start gap-2">
               <AiOutlineSafety className="w-5 h-5 text-[#004D43] " />
               <p className="text-sm text-gray-600 pt-[2px]">
-                Rera No.: {project.rera}
+              Rera No.: AG/GJ/AHMEDABAD/AHMEDABAD CITY/AUDA/AA01657/230826R1 
               </p>
             </div>
             <div className="flex items-start gap-2">
@@ -645,12 +645,19 @@ function PropertyP ()  {
                     Floor Plan of {project.title} {project.locality}
                 </h2>
                 <span className="px-4 mr-4 bg-purple-100 text-[#004D43] rounded-md text-sm font-medium pt-2 mb-3">
-                4 BHK 
+                {project.bhk} 
+                </span>
+                <span className="px-4 mr-4 bg-purple-100 text-[#004D43] rounded-md text-sm font-medium pt-2 mb-3">
+                {project.build}
                 </span>
                 <span className="px-4 bg-purple-100 text-[#004D43] rounded-md text-sm font-medium pt-2 mb-3">
-                3272 Sq Ft 
+               {project.floordata}
                 </span>
-                <img src={project.floorimg} alt="Floorplan" className='w-[60%]' />
+                <img src={project.floorimg1} alt="Floorplan" className='w-[60%]' />
+
+                <div className='mt-7'>
+                </div>
+                <img src={project.floorimg2}  className='w-[60%]' />
           </div>
 
           {/* Video */}
@@ -745,7 +752,7 @@ function PropertyP ()  {
             <div className="flex items-start gap-2">
               <AiOutlineSafety className="w-5 h-5 text-[#004D43] " />
               <p className="text-sm text-gray-600 pt-[2px]">
-                Rera No.: {project.rera}
+                Rera No.: AG/GJ/AHMEDABAD/AHMEDABAD CITY/AUDA/AA01657/230826R1
               </p>
             </div>
             <div className="flex items-start gap-2">

@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import '../styles/ProjectCard.css';
-
 function ProjectCard({ title, subtitle, images, category, index, details }) {
   const [isHovered, setIsHovered] = useState(false);
 
