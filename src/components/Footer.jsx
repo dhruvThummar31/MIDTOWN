@@ -39,17 +39,17 @@ function Footer() {
               <h2 className="font-bold mb-2">S:</h2>
               <ul className="space-y-1">
                 <li>
-                  <Link to="#" className="hover:underline underline hover:text-gray-600">
+                  <Link to="https://www.instagram.com/midtownproperty/" className="hover:underline underline hover:text-gray-600">
                     Instagram
                   </Link>
                 </li>
                 <li>
                   <Link to="#" className="hover:underline underline hover:text-gray-600">
-                    Behance
+                    Youtube
                   </Link>
                 </li>
                 <li>
-                  <Link to="#" className="hover:underline underline hover:text-gray-600">
+                  <Link to="https://www.facebook.com/midtownprop/" className="hover:underline underline hover:text-gray-600">
                     Facebook
                   </Link>
                 </li>

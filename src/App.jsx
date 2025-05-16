@@ -75,6 +75,7 @@ import Commercial from './components/Commercial';
 import Plot from './components/Plot';
 import Industrial from './components/Industrial';
 import PropertyP from './pages/PropertyP';
+import PropertyCP from './pages/PropertyCP';
 import TestimonialP from './pages/TestimonialP';
 import LoadingScreen from './components/LoadingScreen';
 import ScrollToTop from './components/ScrollToTop';
@@ -121,6 +122,7 @@ function App() {
               <Route path="/plot" element={<Plot />} />
               <Route path="/industrial" element={<Industrial />} />
               <Route path="/property/:id" element={<PropertyP />} />
+              <Route path="/property/:id" element={<PropertyCP />} />
             </Route>
           </Routes>
         )}

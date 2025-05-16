@@ -2,7 +2,6 @@ import React, { useEffect,useState } from "react";
 import { motion } from "framer-motion";
 import ResBrand from "./ResBrand";
 import ProjectCard from './ProjectCard';
-
 import { Link } from 'react-router-dom';
 import { commercialProjects } from './ProjectsData';
 import '../styles/RCPI.css'
